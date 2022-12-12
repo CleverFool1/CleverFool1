@@ -8,3 +8,5 @@ Source venv/bin/activate命令可激活虚拟环境，虚拟环境的bin目录�
 shell的提示也会更改，以显示当前使用的虚拟环境的名称。在本例中为venv。操作完成后，使用deactivate命令禁用虚拟环境，然后返回到常规shell。
 
 虚拟环境已激活。使用Python软件包管理器pip安装Flask。在虚拟环境中，可以使用pip命令代替pip3和python3
+现在都是已更改了吧
+
